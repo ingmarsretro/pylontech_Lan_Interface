@@ -1,0 +1,53 @@
+Partlist
+
+Exported from pylontec_LAN_interface.sch at 06.03.2025 11:38
+
+
+Assembly variant: 
+
+Part      Value          Device              Package          Library                 Sheet
+
+485TERM                  JP1E                JP1              jumper                  1
+C1        100nF          C-EUC0805           C0805            resistor                1
+C2        47n            C-EUC0805           C0805            resistor                1
+C3        330n           C-EUC0805           C0805            resistor                1
+C4        330n           C-EUC0805           C0805            resistor                1
+C5        330n           C-EUC0805           C0805            resistor                1
+C6        1uF            C-EUC1210           C1210            rcl                     1
+C7        1uF            C-EUC1210           C1210            rcl                     1
+C8                       C-EUC1210           C1210            rcl                     1
+C9                       C-EUC1210           C1210            rcl                     1
+C10       1uF            C-EUC1210           C1210            rcl                     1
+C35       100nF          C-EUC0805           C0805            resistor                1
+CAN                      W237-102            W237-102         con-wago-500            1
+CTERM                    JP1E                JP1              jumper                  1
+IC1       MAX3232CSE     MAX3232CSE          SO16             maxim                   1
+IC2       SN65HVD230     TJA1040             SO8              nxp                     1
+IC3       MAX485         MAX481CSA           SO08             maxim                   1
+LED1                     LED_LEDCHIPLED_0805 LED_CHIPLED_0805 arduino_Uno_ref         1
+NRF24L01+                MA04-2              MA04-2           con-lstb                1
+PROG                     JP1E                JP1              jumper                  1
+Q1        BSS123         BSS123              SOT23            transistor-small-signal 1
+Q2        BSS123         BSS123              SOT23            transistor-small-signal 1
+R1        10k            R-EU_R0805          R0805            resistor                1
+R2        180R           R-EU_R0805          R0805            resistor                1
+R3        10k            R-EU_R0805          R0805            resistor                1
+R4        10k            R-EU_R0805          R0805            resistor                1
+R5        10k            R-EU_R0805          R0805            resistor                1
+R6        120R           R-EU_R0805          R0805            resistor                1
+R7        120R           R-EU_R0805          R0805            resistor                1
+R8        1k             R-EU_R0805          R0805            resistor                1
+R9        1k             R-EU_R0805          R0805            resistor                1
+R10       10k            R-EU_R0805          R0805            resistor                1
+R11       10k            R-EU_R0805          R0805            resistor                1
+R12       10k            R-EU_R0805          R0805            resistor                1
+R13       10k            R-EU_R0805          R0805            resistor                1
+RS485                    MA04-1              MA04-1           con-lstb                1
+SJ1                      SJ                  SJ               jumper                  1
+SJ2                      SJ                  SJ               jumper                  1
+SJ3                      SJ                  SJ               jumper                  1
+SJ4                      SJ                  SJ               jumper                  1
+TO-FTDI                  MA04-1              MA04-1           con-lstb                1
+U$2       WT32-ETH01     WT32-ETH01          WT32-ETH01       WT32-ETH01              1
+X1        RJ45-8L-B      RJ45-8L-B           RJ45-NO-SHIELD   con-tycoelectronics     1
+X2                       SMARTPRJ_PN61729    SMARTPRJ_PN61729 arduino_Uno_ref         1
